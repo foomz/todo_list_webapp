@@ -28,4 +28,6 @@ src/lib/supabase.js: Initializes and exports the Supabase client.
 src/index.css: Custom styles for the application.
 
 Backend Structure:
+
+
 ![image](https://github.com/user-attachments/assets/76edc868-f712-48fc-b832-2f9290a1373e)
